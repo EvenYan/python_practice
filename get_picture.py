@@ -54,7 +54,7 @@ def main():
     print("图片下载完毕.................")
 
 if __name__ == "__main__":
-    #main()
-    print(os.getcwd())
-    print(os.path.abspath("."))
-    print(os.curdir)
+    main()
+    #print(os.getcwd())
+    #print(os.path.abspath("."))
+    #print(os.curdir)
